@@ -3,12 +3,12 @@ The course project aims to encourage students to explore more about data mining.
 feel free to use any programming language you are comfortable with.
 
 ## Important Dates
-- Group Formation Deadline: April 10 (Saturday), 11:59 pm
-- Project Proposal Deadline: April 29 (Thursday), 11:59 pm
+- [DONE] April 10 @ 11:59 pm: Group Formation Deadline
+- April 29 @ 11:59 pm: Project Proposal Deadline
 - Project Presentation:
-	- Session 1: June 1 (Tuesday), 10 am - 11:50 am
-	- Session 2: June 3 (Thursday), 10 am - 11:50 am
-- Project Report Deadline: June 3 (Thursday), 11:59 pm# cs247
+	- June 1 @ 10 am - 11:50 am: Session 1
+	- June 3 @ 10 am - 11:50 am: Session 2
+- June 3 @ 11:59 pm: Project Report Deadline
 
 ## Project Proposal (5%)
 
