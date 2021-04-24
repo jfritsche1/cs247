@@ -48,16 +48,16 @@ Please follow the same formatting instructions as in the project proposal.
 ### Contents Requirement
 You can reuse your project proposal as part of your final report.
 The final report is required to include:
-    - A succint but clear abstract, please include the link to access you code at the end of
-    - abstract.
-    - A clear introduction
-    - A comprehensive literature review
-    - A precise explanation of your algorithm/model/data pipeline
-    - Solid and thorough experimental evaluation and comparisons with existing approaches
-    - [optional] A discussion of your work's limitation and how your work can be further extended
-    - A clear conclusion
-    - Division of work
-    - References
+- A succint but clear abstract, please include the link to access you code at the end of
+- abstract.
+- A clear introduction
+- A comprehensive literature review
+- A precise explanation of your algorithm/model/data pipeline
+- Solid and thorough experimental evaluation and comparisons with existing approaches
+- [optional] A discussion of your work's limitation and how your work can be further extended
+- A clear conclusion
+- Division of work
+- References
 ### Grading Criteria
 - Writing of your final report: 2%
 - Novelty of your project: 2%
