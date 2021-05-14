@@ -1,0 +1,26 @@
+﻿Symbol,Name,Stock,Category,Country
+AAPL,Apple Inc.,NMS,Technology,USA
+AMZN,"Amazon.com, Inc.",NMS,E-commerce,USA
+BAC,Bank of America Corporation,NYQ,Financial,USA
+BBRK.B,Berkshire Hathaway Inc.,NYQ,Other,USA
+CMCSA,Comcast Corporation A. Shares,NMS,Entertainment,USA
+CVX,Chevron Corporation,NYQ,Major Integrated Oil & Gas,USA
+DIS,The Walt Disney Company,NYQ,Entertainment,USA
+FB,"Facebook, Inc.",NMS,Internet Information Providers,USA
+GOOG,Alphabet Inc.,NMS,Internet Information Providers,USA
+HD,"The Home Depot, Inc.",NYQ,Home Improvement Stores,USA
+INTC,Intel Corporation,NMS,Technology,USA
+JNJ,Johnson & Johnson,NYQ,Drug Manufacturers,USA
+JPM,JPMorgan Chase & Co.,NYQ,Financial,USA
+KO,The Coca-Cola Company,NYQ,Beverages - Soft Drinks,USA
+MA,Mastercard Incorporated,NYQ,Financial,USA
+MRK,"Merck & Co., Inc.",NYQ,Drug Manufacturers,USA
+MSFT,Microsoft Corporation,NMS,Technology,USA
+PEP,"Pepsico, Inc.",NYQ,Beverages - Soft Drinks,USA
+PFE,Pfizer Inc.,NYQ,Drug Manufacturers,USA
+PG,The Procter & Gamble Company,NYQ,Personal Products,USA
+T,AT&T Inc.,NYQ,Telecom Services,USA
+UNH,UnitedHealth Group Incorporated,NYQ,Health Care Plans,USA
+V,Visa Inc.,NYQ,Financial,USA
+VZ,Verizon Communications Inc.,NYQ,Telecom Services,USA
+XOM,Exxon Mobil Corporation,NYQ,Major Integrated Oil & Gas,USA
